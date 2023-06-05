@@ -1,0 +1,132 @@
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.55);
+}
+.image-container {
+    position: relative;
+  }
+
+  .image1{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    width: 400px;
+    height: 550px;
+    top: 0;
+    left: 0;
+    margin-left: 200px;
+  }
+
+  .image2{
+    display: inline-block;
+    width: 600px;
+    height: 225px;
+    top: 100px;
+    left: 0;
+    margin-left: 650px;
+    margin-top: 0px;
+  }
+
+  .image3{
+    display: inline-block;
+    width: 300px;
+    height: 225px;
+    top: 100px;
+    left: 0;
+    margin-left: 650px;
+    margin-top: 10px;
+  }
+
+  .image4{
+    display: inline-block;
+    width: 300px;
+    height: 225px;
+    top: 100px;
+    left: 0;
+    margin-left: 960px;
+    margin-top: 10px;
+  }
+
+  .image-text {
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    color: #ffffff;
+    padding: 0px; /* Adjust the padding as needed */
+    margin-left: 20px;
+  }
+  
+  .image-text h2 {
+    margin: 0;
+    font-size: 24px; /* Adjust the font size as needed */
+  }
+  
+  .image-text p {
+    margin: 10px 0 0 0;
+    font-size: 14px; /* Adjust the font size as needed */
+  }
+  
+  .image-text2 {
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    color: #000000;
+    padding: 0px; /* Adjust the padding as needed */
+    margin-left: 550px;
+  }
+  
+  .image-text2 h2 {
+    margin: 0;
+    font-size: 24px; /* Adjust the font size as needed */
+  }
+  
+  .image-text2 p {
+    margin: 10px 0 0 0;
+    font-size: 14px; /* Adjust the font size as needed */
+  }
+  
+  .image-text3 {
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    color: #000000;
+    padding: 0px; /* Adjust the padding as needed */
+    margin-left: 550px;
+  }
+  
+  .image-text3 h2 {
+    margin: 0;
+    font-size: 24px; /* Adjust the font size as needed */
+  }
+  
+  .image-text3 p {
+    margin: 10px 0 0 0;
+    font-size: 14px; /* Adjust the font size as needed */
+  }
+
+  .image-text4 {
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    color: #000000;
+    padding: 0px; /* Adjust the padding as needed */
+    margin-left: 800px;
+  }
+  
+  .image-text4 h2 {
+    margin: 0;
+    font-size: 24px; /* Adjust the font size as needed */
+  }
+  
+  .image-text4 p {
+    margin: 10px 0 0 0;
+    font-size: 14px; /* Adjust the font size as needed */
+  }
+  
